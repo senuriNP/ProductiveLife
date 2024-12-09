@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProductiveLife</string>
+    <string name="timer">Timer</string>
+    <string name="reminder">Reminder</string>
+    <string name="task_list">Task List</string>
+    <string name="add_new_task">Add new task</string>
+    <string name="enter_reminder">Enter Reminder</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="completed">Completed</string>
+    <string name="task_description">Task Description</string>
+    <string name="task_title">Task Title</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
+    <string name="delete">Delete</string>
+    <string name="delete1">Delete</string>
+    <string name="delete2">Delete</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="reminder_name">Reminder Name</string>
+    <string name="time_in_milliseconds_e_g_60000_for_1_minute">Time in milli secs(e.g.,60000 for 1 min)</string>
+    <string name="add_reminder1">Add Reminder</string>
+</resources>

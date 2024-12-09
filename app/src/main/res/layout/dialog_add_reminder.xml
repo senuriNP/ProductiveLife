@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/editTextReminderName"
+        android:layout_width="322dp"
+        android:layout_height="wrap_content"
+        android:height="48dp"
+        android:hint="@string/reminder_name" />
+
+    <EditText
+        android:id="@+id/editTextReminderTime"
+        android:layout_width="321dp"
+        android:layout_height="48dp"
+        android:height="48dp"
+        android:hint="@string/time_in_milliseconds_e_g_60000_for_1_minute"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/buttonAddReminder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#73D0DC"
+        android:text="@string/add_reminder1" />
+</LinearLayout>
